@@ -1,5 +1,5 @@
 Lihong
   Born in China!
-  Fav color: black
+  Fav color: red 
   Fav city: New York
   @lihong
