@@ -1,2 +1,4 @@
 Lihong
   Born in China!
+  Fav color: black
+
